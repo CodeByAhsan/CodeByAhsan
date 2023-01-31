@@ -7,7 +7,7 @@ A full stack data scientist and engineer with a passion for solving complex ETL 
 Feel free to 💬 Ask me about anything, I am happy to help if you have any questions or suggestions.
 
 
-## Languages and Tools
+## Languages and Tools:
 
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -17,7 +17,9 @@ Feel free to 💬 Ask me about anything, I am happy to help if you have any ques
 	![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)	![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=linux&logoColor=black)
-## Contact me 
+![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+
+## Contact me :
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 **akj124421@gmail.com**
@@ -26,5 +28,13 @@ Feel free to 💬 Ask me about anything, I am happy to help if you have any ques
 
  **linkedin.com/in/ahsan-khan-591098204**
 
-## Big Data Technologies
+## Big Data Technologies:
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
+![DBT](https://img.shields.io/badge/dbt-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
+
+## Most used language:
+
+![DataVoyagerAI](https://github-readme-stats.vercel.app/api/top-langs/?username=DataVoyagerAI&theme=dark)
+
+## GitHub Stats:
+![DataVoyagerAI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DataVoyagerAI&theme=dark)
