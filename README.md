@@ -1,16 +1,30 @@
-### Hi there 👋
+ ## Hi there, I'm Ahsan!🤡
 
-<!--
-**DataVoyagerAI/DataVoyagerAI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A full stack data scientist and engineer with a passion for solving complex ETL problems and generating insights from data . I have a strong foundation in data science , machinelearning and AI. My goal is to use technology to drive meaningful solutions and make an impact on the world.
 
-Here are some ideas to get you started:
+👾 I am constantly seeking new challenges and opportunities to apply my skills to real-world problems. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to 💬 Ask me about anything, I am happy to help if you have any questions or suggestions.
+
+
+## Languages and Tools
+
+
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+	![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+    ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+	![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=yellow)	![Ubuntu](https://img.shields.io/badge/UBUNTU-E95420?style=for-the-badge&logo=linux&logoColor=black)
+## Contact me 
+![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+**akj124421@gmail.com**
+
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+
+ **linkedin.com/in/ahsan-khan-591098204**
+
+## Big Data Technologies
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white)
