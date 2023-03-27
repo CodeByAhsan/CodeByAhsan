@@ -34,7 +34,7 @@ Feel free to 💬 Ask me about anything, I am happy to help if you have any ques
 
 ## Most used language:
 
-![DataVoyagerAI](https://github-readme-stats.vercel.app/api/top-langs/?username=DataVoyagerAI&theme=dark)
+![AI-DataGenie](https://github-readme-stats.vercel.app/api/top-langs/?username=AI-DataGenie&theme=dark)
 
 ## GitHub Stats:
-![DataVoyagerAI](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=DataVoyagerAI&theme=dark)
+![AI-DataGenie](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=AI-DataGenie&theme=dark)
